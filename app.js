@@ -13,3 +13,11 @@ console.log(`the test is ${test}`);
 
 test = 'text';
 console.log(`the test is ${test}`);
+
+// ***************************
+// *** Number Variables *** //
+// ***************************
+// += itself plus value
+let plants = 15;
+
+plants += 2;
