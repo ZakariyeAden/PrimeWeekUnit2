@@ -89,3 +89,9 @@ if(seatsInCar >= passenger && infantsSeats >= infants){
 }else{
   console.log('Not Ready, Check passengers, Infants seats or Gas');
  }
+
+
+ //*************** */
+//  Time Management
+//*************** */
+// Priotirize your schedule and stay away from distractions.
