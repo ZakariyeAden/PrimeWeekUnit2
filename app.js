@@ -81,7 +81,7 @@ let infants = 1;
 let infantsSeats = 0;
 let fullTank = true;
 
-//Check if there is enough room
+//Check if there is enough room and Tank
 if(seatsInCar >= passenger && infantsSeats >= infants){
   console.log('Ready for the Road Trip!');
 } else if(fullTank){
