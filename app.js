@@ -67,3 +67,25 @@ catAge = 12;
 
 sentance = 'Later on, A different cat is ' + catAge + ' old and is named ' + catName;
 console.log(sentance);
+
+
+
+
+// ************************************
+// *** Conditionals Practical *** //
+// ************************************
+
+let seatsInCar = 4;
+let passenger = 2;
+let infants = 1;
+let infantsSeats = 0;
+let fullTank = true;
+
+//Check if there is enough room
+if(seatsInCar >= passenger && infantsSeats >= infants){
+  console.log('Ready for the Road Trip!');
+} else if(fullTank){
+  console.log('Ready for Road Trip with Full Tank')
+}else{
+  console.log('Not Ready, Check passengers, Infants seats or Gas');
+ }
