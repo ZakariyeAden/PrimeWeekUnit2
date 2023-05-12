@@ -31,8 +31,11 @@ plants += 2;
 // ************************************
 
 let motorcycles = 9;
+
 let cars = 0;
+
 let vehicles = cars + motorcycles;
+
 console.log(`Bikes: ${motorcycles}`);
 console.log(`Vehicles: ${vehicles}`);
 //Decrement
@@ -48,7 +51,9 @@ console.log(`Cars: ${cars}`);
 // *** String Variables Practical *** //
 // ************************************
 let catName = 'Andrew';
+
 let catAge = 3;
+
 //Two way of Concating for Console
 console.log('The cat name is', catName);
 console.log(`The cat name is ${catName}`);
