@@ -100,3 +100,9 @@ if(seatsInCar >= passenger && infantsSeats >= infants){
 //  Time Management
 //*************** */
 // Priotirize your schedule and stay away from distractions.
+// Break your weekly goals into small tasks (no more than 30, 45, 60min in length).
+// Prioritize. Do critical tasks now. Decrease/Stop unnecessary tasks.
+// Schedule daily tasks using a calendar tool.
+// Find tools and systems that meet your needs.
+// Time Management is an individual process. Recognize when you're having a trouble organizing your time.
+// Ask us for help!
