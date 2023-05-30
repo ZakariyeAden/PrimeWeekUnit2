@@ -24,7 +24,7 @@ console.log(`the test is ${test}`);
 let plants = 15;
 
 plants += 2;
-
+// Plants is now 17
 
 // ************************************
 // *** Number Variables Practical *** //
